@@ -1,8 +1,8 @@
-# Project Greenfield <br>
+# Sequoia Shop <br>
 
-## Project Overview
+## Overview
 
-This project is a retail fashion website's product detail page created in Javascript and designed to run in a Chrome V8 enviornment. It is made up of a Single page application that re-renders depending on the product data and related meta-data it receives from an external API containing data on products, associated meta-data, reviews, and Q&A . All changes to the page are dynamically rendered based on user input and API response, and any elements which are clicked have their clicks logged to the API for further analysis.
+This is a retail fashion website's product detail page created in Javascript and designed to run in a Chrome V8 enviornment. It is made up of a Single page application that re-renders depending on the product data and related meta-data it receives from an external API containing data on products, associated meta-data, reviews, and Q&A . All changes to the page are dynamically rendered based on user input and API response, and any elements which are clicked have their clicks logged to the API for further analysis.
 <br/>
 This is accomplished using mainly the following tools:
 
