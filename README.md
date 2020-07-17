@@ -50,17 +50,17 @@ Users can search existing questions for desired terms using a the live search ba
 
 _Developed by Dan Prevoznik_
 
-The Related Products section displays products with similar characteristics to the currently selected product, as provided by the team's external API.
+The Related Products section contains a list of products, determined internally, that are related to the product currently being viewed.
 ![arrow-functionality](http://g.recordit.co/PJU6hDV5IY.gif)
 
-Upon clicking the Star icon within each Product Card, a modal is displayed comparing the current product and selected related product's characteristics. This allows for easy product comparison.
+Clicking the Star icon on a product card opens a modal window comparing the details of the current page to those of the product that was selected from the list. Also, clicking on a product card will navigate to the detail page for the product. 
 ![compare-functionality](http://g.recordit.co/Avhh4Hh9Om.gif)
 
 ### Your Outfit
 
 _Developed by Dan Prevoznik_
 
-The Your Outfit section allows users to keep track of their favorite articles of clothing! The user has the ability to add items to their persistent Outfit by clicking the Add card. They can remove items by clicking the "X" on each card.
+The Your Outfit section contains a list of products which the user has selected to group together as an "outfit". The list items persist across page navigation.
 ![add-to-outfit-functionality](http://g.recordit.co/d55Bt6W8Ea.gif)
 
 <br><br>
